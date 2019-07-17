@@ -1,0 +1,11 @@
+﻿  main.c
+c:\year2\sem3\procedural programing\exam2\labexam2\labexam2\main.c(45): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam2\labexam2\labexam2\main.c(46): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\year2\sem3\procedural programing\exam2\labexam2\labexam2\main.c(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\year2\sem3\procedural programing\exam2\labexam2\labexam2\main.c(32): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\year2\sem3\procedural programing\exam2\labexam2\labexam2\main.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\year2\sem3\procedural programing\exam2\labexam2\labexam2\main.c(98): warning C4101: 'current': unreferenced local variable
+  LabExam2.vcxproj -> C:\Year2\Sem3\Procedural Programing\Exam2\LabExam2\Debug\LabExam2.exe
